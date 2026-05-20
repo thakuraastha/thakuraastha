@@ -29,7 +29,7 @@ name: Aastha Thakur
 
 role: Software Engineer
 
-experience: 3+ Years
+Education: 3rd year student
 
 specialization:
   - Full-Stack Development
@@ -45,10 +45,6 @@ tech_stack:
   - JavaScript
   - Express.js
   - REST APIs
-
-problem_solving:
-  - 1500+ DSA Problems Solved
-  - Competitive Programming
 
 current_focus:
   - Scalable Web Applications
