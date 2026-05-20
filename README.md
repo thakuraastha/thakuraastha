@@ -147,16 +147,6 @@ current_focus:
 
 ---
 
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/aasthathakur?theme=dark&font=Baloo+Bhai&ext=contest" />
-
-</div>
-
----
-
 # 💻 Coding Vibes
 
 <div align="center">
