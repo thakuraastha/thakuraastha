@@ -107,16 +107,13 @@ current_focus:
 </div>
 
 ---
-
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thakuraastha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakuraastha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thakuraastha&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thakuraastha&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
