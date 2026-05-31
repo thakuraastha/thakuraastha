@@ -120,6 +120,9 @@ AI-powered Indian Heritage Recognition System
 - Historical Context Generation
 - GenAI Question Answering
 
+#### Tech Stack
+`Python` `TensorFlow` `MobileNetV2` `FastAPI` `React` `Groq AI`
+
 ---
 
 ## 🔒 PrivaTrace
@@ -131,6 +134,9 @@ Privacy-Preserving NLP Redaction Platform
 - PII Detection
 - Secure LLM Workflow
 - Privacy-Safe AI Chat
+
+#### Tech Stack
+`FastAPI` `spaCy` `Presidio` `OCR` `Docker` `Ollama`
 
 ---
 
@@ -144,6 +150,9 @@ Medical Image Steganography Framework
 - ResNet50 Steganalysis
 - 93% Classification Accuracy
 
+#### Tech Stack
+`OpenCV` `AES/Fernet` `ResNet50` `PSNR` `SSIM`
+
 ---
 
 ## 📈 PricePulse
@@ -156,6 +165,9 @@ Big Data Analytics & Predictive Modeling
 - Rating Prediction
 - Flask Deployment
 
+#### Tech Stack
+`Pandas` `NumPy` `scikit-learn` `XGBoost` `Flask`
+
 ---
 
 ## 📄 SynopsiVerse
@@ -167,6 +179,60 @@ Generative AI PDF Assistant
 - Prompt Engineering
 - Streamlit
 - OpenAI Integration
+
+#### Tech Stack
+`OpenAI API` `Streamlit` `NLP` `Prompt Engineering`
+
+---
+
+## 🎤 Eloquence
+### NLP PRODUCT DESIGN
+
+Communication and interview preparation platform powered by structured NLP workflows.
+
+- Designed interview-focused communication practice workflows
+- Built structured response generation exercises
+- Created prompt-driven speaking practice modules
+- Designed user learning journeys and progress tracking
+- Focused on clarity, confidence, and interview readiness
+- Fully responsive front-end experience
+
+#### Tech Stack
+`HTML` `CSS` `JavaScript` `NLP Workflows`
+
+---
+
+## 🎵 Beat.it
+### FULL-STACK MUSIC STREAMING PLATFORM
+
+Modern music streaming platform with authentication, content management, and custom player experiences.
+
+- User authentication and profile management
+- Music library and album browsing
+- Search and discovery workflows
+- Custom audio player controls
+- Admin dashboard for content management
+- Cloud-based media storage integration
+
+#### Tech Stack
+`Node.js` `Express` `Firebase` `Cloudinary` `EJS` `JavaScript`
+
+---
+
+## 🎓 Scholar
+### STUDENT PERFORMANCE ANALYTICS
+
+Analytics platform for monitoring student performance and academic insights.
+
+- Role-based student and faculty dashboards
+- GPA and attendance monitoring
+- Performance trend visualization
+- At-risk student identification
+- Personalized recommendation workflows
+- Responsive analytics interface
+
+#### Tech Stack
+`HTML5` `CSS3` `JavaScript` `Chart.js` `LocalStorage`
 
 ---
 # 📊 GitHub Analytics
