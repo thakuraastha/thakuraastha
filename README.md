@@ -249,6 +249,30 @@ Never stop solving problems.
 
 ---
 
+# 🎯 Current Focus
+
+- Large Language Models
+- Retrieval Augmented Generation
+- Multi-modal AI Systems
+- AI Product Engineering
+- Production-grade ML Deployment
+
+---
+
+# 📚 Relevant Coursework
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Big Data Analytics
+- Statistics for Data Science
+- DBMS
+- Data Structures & Algorithms
+
+---
+
+---
+
 # ☕ Fun Fact
 
 ```javascript
