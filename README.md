@@ -107,6 +107,68 @@ current_focus:
 </div>
 
 ---
+
+# 🌟 Featured Projects
+
+## 🏛️ Viraasat
+AI-powered Indian Heritage Recognition System
+
+- MobileNetV2 Transfer Learning
+- 11,369 Images
+- 30 Monument Classes
+- FastAPI + React
+- Historical Context Generation
+- GenAI Question Answering
+
+---
+
+## 🔒 PrivaTrace
+
+Privacy-Preserving NLP Redaction Platform
+
+- OCR Processing
+- Presidio + spaCy
+- PII Detection
+- Secure LLM Workflow
+- Privacy-Safe AI Chat
+
+---
+
+## 🧠 Medusa Protocol
+
+Medical Image Steganography Framework
+
+- AES Encryption
+- OpenCV
+- DCT / DWT / LSB
+- ResNet50 Steganalysis
+- 93% Classification Accuracy
+
+---
+
+## 📈 PricePulse
+
+Big Data Analytics & Predictive Modeling
+
+- XGBoost
+- Random Forest
+- Feature Engineering
+- Rating Prediction
+- Flask Deployment
+
+---
+
+## 📄 SynopsiVerse
+
+Generative AI PDF Assistant
+
+- PDF Summarization
+- Question Answering
+- Prompt Engineering
+- Streamlit
+- OpenAI Integration
+
+---
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -127,15 +189,6 @@ current_focus:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thakuraastha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
